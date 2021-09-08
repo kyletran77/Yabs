@@ -53,7 +53,7 @@ features                                  :
 
 
   - title                                 : Small things
-    description                           : Can't get that LinkedIn profile by yourself? Ask a Yab user to take pictures for you.
+    description                           : Can't get that LinkedIn picture by yourself? Ask a Yab user nearby.
     fontawesome_icon_name                 : camera-retro
 
   - title                                 : Easy Search
@@ -62,11 +62,11 @@ features                                  :
   
   - title                                 : Security
     description                           : Only authorized university students are eligible to use - no to strangers, yes to security.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : user-lock
 
   - title                                 : Full freedom
     description                           : You decide how much to pay, and you decide where to meet up. It's that simple.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : stars
 
   - title                                 : # Social Links
     description                           : # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
