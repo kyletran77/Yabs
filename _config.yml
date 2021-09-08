@@ -36,20 +36,20 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Task-sharing
-    description                           : Stop delaying your tasks that you don't want to do - let others do it for you.
+    description                           : Stop delaying your tasks that you don't want to do - let others do it for you. With Yab.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : #iPhone Device Preview
+    description                           : #Preview your app in the context of an iPhone device. Five different device colors included.
+    fontawesome_icon_name                 : #mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : #Video Support
+    description                           : #Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    fontawesome_icon_name                 : #play-circle
 
   - title                                 : Need to get laundaries done?
     description                           : Don't dread hours on the laundry machine when you are busy! Ask a fellow student with Yab.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : bell-slash
 
   - title                                 : Easy Search
     description                           : No more awkward calls and messages for a small favor. Get stuffs done in five minutes with few clicks.
