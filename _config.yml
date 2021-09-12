@@ -12,8 +12,8 @@ presskit_download_link                    : https://emilbaehr.com               
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Yabs                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 0.00                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Let others do your tasks with Yab.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Let others do your tasks. Task-Sharing.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -83,7 +83,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#7CC6D0"
 topbar_transparency                       : 0.2
 topbar_title_color                        : "#ffffff"
 
@@ -93,7 +93,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#ECE5DD"
 
 link_color                                : "#1d63ea"
 
