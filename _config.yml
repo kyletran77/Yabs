@@ -83,7 +83,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#7CC6D0"
+topbar_color                              : "#E6813B"
 topbar_transparency                       : 0.2
 topbar_title_color                        : "#ffffff"
 
@@ -93,7 +93,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ECE5DD"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
